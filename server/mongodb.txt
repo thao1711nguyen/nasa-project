@@ -1,0 +1,2 @@
+database_username: nasa-api
+database_password: tOFMFyHOiS2Se6pP
